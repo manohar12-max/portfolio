@@ -10,6 +10,7 @@ import gaming from "../../assets/gaming.png";
 import airbnb from "../../assets/air.png";
 import hashtag from "../../assets/hashtag.png"
 import xflix from "../../assets/xflix.png"
+import cinehub from "../../assets/cinehub.png"
 import "./projects.css";
 const project = [
   {
@@ -17,7 +18,7 @@ const project = [
     name: "Airbnb",
     img: airbnb,
     link: "https://airbnb-clone-12.vercel.app/",
-    skills: "Next Js,MongoDb,TailwindCss",
+    skills: "Next Js,TypeScript,MongoDb,TailwindCss",
     github: "https://github.com/manohar12-max/airclone/tree/main",
   },
   {
@@ -28,6 +29,15 @@ const project = [
     skills: "ReactJs,Material UI,MongoDb",
     github:
       "https://github.com/manohar12-max/crio-2898manohar-ME_QKART_FRONTEND_V2",
+  },
+  {
+    id: 11,
+    name: "CineHub",
+    img: cinehub,
+    link: "https://cinehub-7chl.vercel.app/",
+    skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
+    github:
+      "https://github.com/manohar12-max/cinehub",
   },
   {
     id: 3,
