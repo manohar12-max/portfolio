@@ -30,15 +30,7 @@ const project = [
     github:
       "https://github.com/manohar12-max/crio-2898manohar-ME_QKART_FRONTEND_V2",
   },
-  {
-    id: 11,
-    name: "CineHub",
-    img: cinehub,
-    link: "https://cinehub-7chl.vercel.app/",
-    skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
-    github:
-      "https://github.com/manohar12-max/cinehub",
-  },
+ 
   {
     id: 3,
     name: "Social-app",
@@ -105,6 +97,15 @@ const project = [
     link: "https://restoran-landing-page.vercel.app/",
     skills: "HTML,CSS",
     github: "https://github.com/manohar12-max/Restoran-landingpage",
+  },
+  {
+    id: 11,
+    name: "CineHub",
+    img: cinehub,
+    link: "https://cinehub-7chl.vercel.app/",
+    skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
+    github:
+      "https://github.com/manohar12-max/cinehub",
   },
 ];
 const Projects = () => {
