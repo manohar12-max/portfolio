@@ -48,6 +48,15 @@ const project = [
     github: "https://github.com/manohar12-max/realtor-clone-react/tree/main",
   },
   {
+    id: 11,
+    name: "CineHub",
+    img: cinehub,
+    link: "https://cinehub-7chl.vercel.app/",
+    skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
+    github:
+      "https://github.com/manohar12-max/cinehub",
+  },
+  {
     id: 5,
     name: "Xflix-Video-Share",
     img: xflix,
@@ -98,15 +107,7 @@ const project = [
     skills: "HTML,CSS",
     github: "https://github.com/manohar12-max/Restoran-landingpage",
   },
-  {
-    id: 11,
-    name: "CineHub",
-    img: cinehub,
-    link: "https://cinehub-7chl.vercel.app/",
-    skills: "NextJs,TypeScript,Tailwind Css,MongoDb",
-    github:
-      "https://github.com/manohar12-max/cinehub",
-  },
+
 ];
 const Projects = () => {
   return (
